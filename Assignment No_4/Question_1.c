@@ -17,7 +17,7 @@ int MultFact(int iNo)
 
    return iRes;
 }
-
+ 
 int main()
 {
     int iValue = 0;

@@ -10,10 +10,10 @@ int SumNonFact(int iNo)
     
    for(iCnt = 1;iCnt<=iNo;iCnt++)
    {
-    if(iNo % iCnt != 0)
-    {
-        iSum  = iSum + iCnt;    
-    }
+        if(iNo % iCnt != 0)
+        {
+            iSum  = iSum + iCnt;    
+        }
    }
    return iSum;
 }
@@ -28,7 +28,7 @@ int main()
 
     iRet = SumNonFact(iValue);
 
-    printf("Sum of NonFactor is: %d", iRet);
+    printf("Sum of Non-Factor is: %d", iRet);
 
     return 0;
 }

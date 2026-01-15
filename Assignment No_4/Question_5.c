@@ -24,7 +24,7 @@ int FactDiff(int iNo)
 
    return iDiff;
 }
-
+ 
 int main()
 {
     int iValue = 0;
