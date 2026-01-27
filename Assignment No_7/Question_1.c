@@ -1,7 +1,7 @@
 //      1.Write a program which accept number from user and display below pattern.
 
 #include <stdio.h>
- 
+   
 void Display(int iValue)
 {
 

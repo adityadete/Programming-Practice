@@ -1,6 +1,6 @@
 //      2. Accept amount in US dollar and return its corresponding value in Indian currency.
 //      Consider 1$ as 70 rupees.
-
+ 
 #include <stdio.h>
  
 int Display(int iValue)

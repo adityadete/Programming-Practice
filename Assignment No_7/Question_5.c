@@ -2,7 +2,7 @@
 //      of given number.
 
 #include <stdio.h>
- 
+  
 int EvenFactorial(int iNo)
 {
     int fact = 1;
