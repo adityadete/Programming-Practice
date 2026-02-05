@@ -12,7 +12,7 @@ void DisplayConvert(char cValue)
     {
         printf("%c\n", cValue + 32); 
     }
-    
+     
 }
 
 int main()

@@ -15,7 +15,7 @@ bool ChkVowel(char Cvalue)
     {
         return false;
     }
-}
+} 
 
 int main()
 {

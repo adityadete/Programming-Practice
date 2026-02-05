@@ -10,7 +10,7 @@ void DisplayFactors(int iNo)
     {
         return;
     }
-
+ 
     for (iCnt = 1; iCnt<=iNo/2; iCnt++)
     {
         if((iNo % iCnt == 0) && (iCnt % 2 == 0))
