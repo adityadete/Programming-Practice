@@ -2,7 +2,7 @@
 //      celsius. (1 celsius = (Fahrenheit -32) * (5/9))
 
 #include <stdio.h>
-
+ 
 double FhtoCs(float fTemp)
 {
     return (fTemp - 32) * 5 / 9;

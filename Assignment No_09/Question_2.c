@@ -2,7 +2,7 @@
 //      its area. (Area = Width * Height)
 
 #include <stdio.h>
-
+ 
 double RectangleArea(float fWidth, float fHeight)
 {
     return fWidth * fHeight;

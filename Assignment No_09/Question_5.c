@@ -2,7 +2,7 @@
 //      meter. (1 square feet = 0.0929 Square meter)
 
 #include <stdio.h>
-
+ 
 double SquareMeter(int iValue)
 {
     return iValue * 0.0929;
