@@ -2,7 +2,7 @@
 //      non factors.
 
 #include<stdio.h>
-
+ 
 int SumNonFact(int iNo)
 {
     int iCnt = 0;

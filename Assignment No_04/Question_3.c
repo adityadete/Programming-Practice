@@ -1,7 +1,7 @@
 //      3.Write a program which accept number from user and display all its non factors.
 
 #include<stdio.h>
-
+ 
 void NonFact(int iNo)
 {
     int iCnt = 0;

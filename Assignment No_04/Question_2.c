@@ -2,7 +2,7 @@
 //      decreasing order.
 
 #include<stdio.h>
-
+ 
 void FactRev(int iNo)
 {
     int iCnt = 0;

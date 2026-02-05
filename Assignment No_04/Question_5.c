@@ -2,7 +2,7 @@
 //      summation of all its factors and non factors.
 
 #include<stdio.h>
-
+ 
 int FactDiff(int iNo)
 {
     int iCnt = 0;
