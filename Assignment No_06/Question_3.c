@@ -3,7 +3,7 @@
 #include<stdio.h>
 
 int Factorial(int iNo)
-{
+{ 
     int Fact = 1;
 
     for(int iCnt = iNo; iCnt >= 1; iCnt--)

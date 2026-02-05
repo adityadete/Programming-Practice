@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 void TableRev(int iNo)
-{
+{ 
     for (int i = 10; i >= 1; i--) 
     {
         printf("%d ", iNo * i); 

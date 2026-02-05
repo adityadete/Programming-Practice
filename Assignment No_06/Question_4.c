@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 void Table(int iNo)
-{
+{ 
     for(int i = 1; i <= 10; i++) 
     {
         printf("%d\n", iNo * i); 

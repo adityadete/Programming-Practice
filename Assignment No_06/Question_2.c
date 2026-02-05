@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 void Display(int digit)
-{
+{ 
     if (digit < 0 || digit > 9)
     {
         printf("Invalid input.\n");
