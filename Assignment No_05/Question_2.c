@@ -10,7 +10,7 @@ void Display(int iNo)
         printf("%d\t", i);
     }
 }
-
+ 
 int main()
 {
     int iValue = 0;

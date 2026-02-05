@@ -8,7 +8,7 @@ void MultipleDisplay(int iNo)
         printf("%d ", iNo * i);
     }
 }
-
+ 
 int main()
 {
     int iValue = 0;
