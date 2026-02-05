@@ -10,7 +10,7 @@ void Display(int iNo, int ifreq)
         printf(" %d ",iNo);
     }
 }
-
+ 
 int main()
 {
     int iValue = 0;

@@ -10,7 +10,7 @@ void Display(int iNo)
         iNo--;
     }
 }
-
+ 
 int main()
 {
     int iValue = 0;
