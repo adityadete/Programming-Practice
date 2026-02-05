@@ -7,7 +7,7 @@ int Display(int iValue)
 {
     return iValue * 70;
 }
-
+ 
 int main()
 {
     int iValue = 0;
