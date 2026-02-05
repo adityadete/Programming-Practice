@@ -10,7 +10,7 @@ int Display()
         printf("%d\t",i);
     }
 }
-
+ 
 int main()
 {
     Display();

@@ -1,7 +1,7 @@
 // 2. Program to print 5 times “Marvellous” on screen.
 
 #include<stdio.h>
-
+ 
 int Display()
 {
     int i = 0;
