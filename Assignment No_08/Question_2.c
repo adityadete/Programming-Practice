@@ -7,7 +7,7 @@ double RectangleArea(float fWidth, float fHeight)
 {
     return fWidth * fHeight;
 }
-
+ 
 int main()
 {
     float fValue1 = 0.0;

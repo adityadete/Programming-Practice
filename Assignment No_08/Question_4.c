@@ -7,7 +7,7 @@ double FhtoCs(float fTemp)
 {
     return (fTemp - 32) * 5 / 9;
 }
-
+ 
 int main()
 {
     float fValue = 0;
